@@ -53,7 +53,6 @@ def Candidates_size(Candidates_list, Vote, Candidates_per):
 
 
 #Code bellow uses all the functions previously made and runs/executes them
-
 Vote_ses(bal_let)
 Candidates_voter(bal_let,list_per ,Vote)
 Candidates_size(list_per , Vote, Candidates_per)
